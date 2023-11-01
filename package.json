@@ -1,7 +1,7 @@
 {
-  "name": "fem-dklt-toggle",
+  "name": "social-media-dashboard",
   "version": "1.0.0",
-  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)",
+  "description": "Design preview for the Social media dashboard with theme switcher",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,6 @@
     "gulp-terser": "^2.0.1",
     "postcss": "^8.3.5",
     "sass": "^1.35.2",
-    "undertaker-registry": "^2.0.0",
-    "vinyl-fs": "^4.0.0"
+    "undertaker-registry": "^2.0.0"
   }
 }
